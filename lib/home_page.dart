@@ -22,7 +22,7 @@ class Homepage extends StatelessWidget {
           }, icon: const Icon(Icons.shopping_cart)),
         ],
       ),
-      endDrawer: Drawer(
+      drawer: Drawer(
         child: Container(
           decoration: BoxDecoration(
             gradient: const LinearGradient(
