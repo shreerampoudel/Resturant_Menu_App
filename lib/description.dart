@@ -39,6 +39,7 @@ class Description extends StatelessWidget {
           ),
           borderRadius: BorderRadius.circular(10.0),
         ),
+        child:SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(5.0),
           child: Column(
@@ -148,6 +149,6 @@ class Description extends StatelessWidget {
           ),
         ),
       ),
-    );
+    ));
   }
 }

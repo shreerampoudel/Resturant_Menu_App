@@ -16,7 +16,7 @@ var data = [
   {
     "name": "Caesar Salad",
     "price": "620",
-    "description": ": Crisp romaine lettuce tossed with creamy Caesar dressing, Parmesan cheese, and crunchy croutons. Enjoy a refreshing and satisfying salad that bursts with flavors and textures.",
+    "description": "Crisp romaine lettuce tossed with creamy Caesar dressing, Parmesan cheese, and crunchy croutons. Enjoy a refreshing and satisfying salad that bursts with flavors and textures.",
     "category": "Category: Salad",
     "image": "https://cdn.pixabay.com/photo/2017/08/11/00/32/salad-2629262_1280.jpg",
     "ingredients": [

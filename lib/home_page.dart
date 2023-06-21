@@ -160,7 +160,7 @@ class Homepage extends StatelessWidget {
                     children: [
                       Image.network(
                         data[index]["image"].toString(),
-                        height: 138,
+                        height: 123,
                         width: 175,
                       ),
                       Text(
